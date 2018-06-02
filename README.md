@@ -9,16 +9,9 @@ _git clone https://github.com/JohnKCherry/O-Reilly-Free-E-Books.git_
 
 _cd O-Reilly-Free-E-Books/_
 
-Open _download.sh_ with a text editor. Uncomment the books you want to download removing the character "#" from beginning of the line
+_ruby downloader.rb_
 
-_chmod +x download.sh_  
-_./download.sh_
+or
 
-### For Download Mobile Version:
-
-_cd O-Reilly-Free-E-Books/_
-
-Open _download_mobi.sh_ with a text editor. Uncomment the books you want to download removing the character "#" from beginning of the line
-
-_chmod +x download_mobi.sh_  
-_./download_mobi.sh_
+_chmod +x downloader.rb_
+_./downloader.rb_
