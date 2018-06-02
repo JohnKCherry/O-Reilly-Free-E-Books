@@ -8,6 +8,7 @@ _git clone https://github.com/JohnKCherry/O-Reilly-Free-E-Books.git_
 ### For Downloading PDFs:
 
 _cd O-Reilly-Free-E-Books/_
+_gem install httparty nokogiri --no-ri --no-rdoc_
 
 _ruby downloader.rb_
 
