@@ -11,7 +11,7 @@ _cd O-Reilly-Free-E-Books/_
 
 Open _download.sh_ with a text editor. Uncomment the books you want to download removing the character "#" from beginning of the line
 
-_chmod +x download.sh_
+_chmod +x download.sh_  
 _./download.sh_
 
 ### For Download Mobile Version:
