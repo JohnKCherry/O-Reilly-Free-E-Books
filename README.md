@@ -3,11 +3,11 @@ Free Programming E-book Series of O'Reilly
 
 #### For Downloading Installers:
 
-_ git clone https://github.com/JohnKCherry/O-Reilly-Free-E-Books.git _
+_git clone https://github.com/JohnKCherry/O-Reilly-Free-E-Books.git_
 
 ### For Downloading PDFs:
 
-_ cd O-Reilly-Free-E-Books/ _
+_cd O-Reilly-Free-E-Books/_
 
 Open _download.sh_ with a text editor. Uncomment the books you want to download removing the character "#" from beginning of the line
 
